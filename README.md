@@ -1,8 +1,8 @@
 # 🔬 Kaggle LLM Science Exam: QLoRA-Enhanced Scientific QA System
 
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A3%97%20Hugging%20Face-Canl%C4%B1%20Demo-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/sancos/llm-science-model)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Yar%C4%B1%C5%9Fma-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
