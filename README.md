@@ -293,7 +293,20 @@ Wikipedia + arXiv tabanlı retrieval sistemi entegrasyonu.
 
 ---
 
-# 📁 6. PROJE KLASÖR YAPISI
+
+## 🚀 6. CANLI UYGULAMA VE DENEYİM (LIVE DEMO)
+
+Bu proje, son kullanıcıların ve araştırmacıların modelleri anlık olarak test edebilmesi için **Streamlit** altyapısı kullanılarak bir web uygulamasına dönüştürülmüştür. 
+
+Eğitilmiş olan **Qwen2.5-1.5B QLoRA** akademisyen modelimizi harici bir kuruluma ihtiyaç duymadan, doğrudan tarayıcınız üzerinden test etmek için aşağıdaki bağlantıyı kullanabilirsiniz:
+
+🔗 **[Hugging Face Spaces - Canlı Deneme Platformu](https://huggingface.co/spaces/sancos/llm-science-model)**
+
+---
+
+
+
+# 📁 7. PROJE KLASÖR YAPISI
 
 ```text
 llm_science_exam/
@@ -317,9 +330,9 @@ llm_science_exam/
 
 ---
 
-# 🚀 7. KURULUM VE ÇALIŞTIRMA
+# 🚀 8. KURULUM VE ÇALIŞTIRMA
 
-## 7.1 Kütüphanelerin Kurulumu
+## 8.1 Kütüphanelerin Kurulumu
 
 ```bash
 pip install -U transformers
@@ -333,7 +346,7 @@ pip install -U sentencepiece
 
 ---
 
-## 7.2 Eğitim Başlatma
+## 8.2 Eğitim Başlatma
 
 ```bash
 python train.py
@@ -341,7 +354,7 @@ python train.py
 
 ---
 
-## 7.3 Inference
+## 8.3 Inference
 
 ```bash
 python inference.py
@@ -349,7 +362,7 @@ python inference.py
 
 ---
 
-# 🧠 8. GELECEK FAZ PLANLAMASI
+# 🧠 9. GELECEK FAZ PLANLAMASI
 
 İlerleyen sürümlerde aşağıdaki geliştirmeler planlanmaktadır:
 
@@ -366,7 +379,7 @@ python inference.py
 
 ---
 
-# 🖋️ 9. SONUÇ VE DEĞERLENDİRME
+# 🖋️ 10. SONUÇ VE DEĞERLENDİRME
 
 Bu proje kapsamında:
 
@@ -385,7 +398,7 @@ Sistem:
 
 ---
 
-# 👨‍💻 10. HAZIRLAYAN
+# 👨‍💻 11. HAZIRLAYAN
 
 ## Serdar Önal
 
