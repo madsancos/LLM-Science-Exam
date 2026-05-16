@@ -1,0 +1,32 @@
+# =========================================================================
+# 🏗️ Kaggle LLM Science Exam - Git Sınır Şartnamesi (.gitignore)
+# =========================================================================
+
+# 1. Temizlik ve Geçici Çalışma Klasörü (Senin oluşturduğun klasör)
+Yeni klasör/
+Yeni_klasor/
+[Yy]eni [Kk]lasor/
+
+# 2. Debertabase ve Büyük Model Ağırlıkları (Boyutu yüksek safetensors dosyaları)
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# 3. Kaggle Eğitim İskeleyi ve Logları (Checkpoint klasörleri)
+outputs/
+checkpoints/
+checkpoint-*/
+*.log
+
+# 4. Geçici Tahmin ve Teslimat Çıktıları
+*.csv
+!data/*.csv
+
+# 5. Python ve Sistem Kalıntıları
+__pycache__/
+*.py[cod]
+*$py.class
+.virtual_documents/
+.ipynb_checkpoints/
+.DS_Store
